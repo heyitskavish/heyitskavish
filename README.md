@@ -62,14 +62,6 @@ Full Stack Developer passionate about building scalable web applications using D
 
 ---
 
-## 💡 Technical Skills
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- React.js
-
----
-
 ## 🗄️ Databases
 
 <p align="left">
