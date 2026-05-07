@@ -8,7 +8,7 @@
   <a href="https://github.com/heyitskavish">
     <img src="https://img.shields.io/badge/GitHub-heyitskavish-181717?style=for-the-badge&logo=github"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/kavish-rane-95a2072bb/">
     <img src="https://img.shields.io/badge/LinkedIn-Kavish_Rane-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -18,23 +18,11 @@
 
 ## 🚀 About Me
 
-```python
-class Kavish():
-    
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "Java", "C", "PHP"]
-        self.frameworks = ["Django", "React.js"]
-        self.databases = ["MySQL", "Oracle"]
-        self.interests = [
-            "Backend Development",
-            "Modern Web Apps",
-            "Problem Solving"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-```
+- 🎓 BCA Graduate passionate about Full Stack Development
+- 💻 Building scalable web applications using Django & React.js
+- 🌱 Currently learning advanced backend development and REST APIs
+- 🔥 Interested in problem solving and modern UI design
+- ⚡ Focused on improving coding and development skills every day
 
 ---
 
@@ -67,34 +55,38 @@ class Kavish():
 
 ---
 
-# 📌 Projects
+# 📌 Featured Projects
 
-## 🍔 Mealora — Food Ordering Web App
-- Authentication & order management
-- Restaurant & menu handling
-- Admin dashboard
-- Dynamic quantity pricing
+## 🍔 Mealora — Food Ordering Web Application
 
-**Tech:** Django • MySQL • HTML • CSS
+- User authentication & order management
+- Restaurant and menu handling
+- Admin dashboard for managing orders
+- Dynamic quantity pricing system
+
+**Tech Stack:** Django • MySQL • HTML • CSS
 
 ---
 
 ## 🧹 Maid Hiring System
-- Maid booking platform
-- User & admin modules
-- Feedback management
-- Category handling
 
-**Tech:** Django • MySQL • HTML • CSS
+- Maid booking and management platform
+- User registration & login system
+- Admin management for maid listings
+- Feedback and category modules
+
+**Tech Stack:** Django • MySQL • HTML • CSS
 
 ---
 
 ## ✅ Task Buddy
-- Add, update & delete tasks
-- Dynamic UI rendering
-- Component-based architecture
 
-**Tech:** React.js • JavaScript • CSS
+- Add, update, and delete tasks
+- Dynamic UI updates
+- Component-based architecture
+- Responsive design
+
+**Tech Stack:** React.js • JavaScript • CSS
 
 ---
 
@@ -102,7 +94,7 @@ class Kavish():
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=heyitskavish&show_icons=true&theme=tokyonight"/>
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitskavish&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -123,14 +115,7 @@ class Kavish():
 
 # ⚡ Fun Fact
 
-```javascript
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
-}
-```
+> I turn coffee ☕ into scalable web applications 💻
 
 ---
 
