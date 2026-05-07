@@ -14,19 +14,17 @@ Full Stack Developer passionate about building scalable web applications using D
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
 # 🚀 About Me
 
-- 🎓 BCA Graduate passionate about Full Stack Development
-- 💻 Skilled in Python, Django, React.js, and MySQL
-- 🌱 Currently learning advanced React.js & backend development
-- 🔥 Love building real-world web applications
-- ⚡ Interested in scalable backend systems and clean UI design
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
+- 🎓 BCA Graduate passionate about Full Stack Development  
+- 💻 Skilled in Python, Django, React.js, and MySQL  
+- 🌱 Currently learning advanced React.js & backend development  
+- 🔥 Love building real-world web applications  
+- ⚡ Interested in scalable backend systems and clean UI design  
 
 ---
 
@@ -59,6 +57,14 @@ Full Stack Developer passionate about building scalable web applications using D
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+---
+
+## 💡 Technical Skills
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- React.js
 
 ---
 
