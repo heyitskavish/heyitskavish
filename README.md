@@ -86,7 +86,7 @@
 - Component-based architecture
 - Responsive design
 
-**Tech Stack:** React.js • JavaScript • CSS
+**Tech Stack:** React.js • JavaScript • HTML  • CSS 
 
 ---
 
