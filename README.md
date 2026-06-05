@@ -57,14 +57,14 @@
 
 # 📌 Featured Projects
 
-🍔 Mealora — Food Ordering Web Application
--Implemented user authentication, registration, login, and order management features.
--Developed restaurant and menu management modules for efficient food listing.
--Built an admin dashboard to manage orders and track order statuses.
-Created a dynamic quantity-based pricing system for real-time price calculation.
+## 🍽️ Mealora — Food Ordering Web Application
 
-Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
+- Developed a full-stack food ordering platform with secure user authentication, registration, and login functionality.
+- Built restaurant and menu management modules, allowing vendors to efficiently manage food listings and updates.
+- Implemented a dynamic cart system with real-time quantity-based pricing and seamless order placement.
+- Designed an admin dashboard for managing restaurants, orders, and order status tracking with a responsive user interface.
 
+**Tech Stack:** Django • SQLite3 • HTML5 • CSS3 • JavaScript
 ---
 
 ## 🧹 Maid Hiring System
