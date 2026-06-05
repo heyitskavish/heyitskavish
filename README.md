@@ -57,14 +57,13 @@
 
 # 📌 Featured Projects
 
-## 🍔 Mealora — Food Ordering Web Application
+🍔 Mealora — Food Ordering Web Application
+Implemented user authentication, registration, login, and order management features.
+Developed restaurant and menu management modules for efficient food listing.
+Built an admin dashboard to manage orders and track order statuses.
+Created a dynamic quantity-based pricing system for real-time price calculation.
 
-- User authentication & order management
-- Restaurant and menu handling
-- Admin dashboard for managing orders
-- Dynamic quantity pricing system
-
-**Tech Stack:** Django • MySQL • HTML • CSS
+Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
 
 ---
 
