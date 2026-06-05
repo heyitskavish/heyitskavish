@@ -65,27 +65,28 @@
 - Designed an admin dashboard for managing restaurants, orders, and order status tracking with a responsive user interface.
 
 **Tech Stack:** Django • SQLite3 • HTML5 • CSS3 • JavaScript
+
 ---
 
 ## 🧹 Maid Hiring System
 
-- Maid booking and management platform
-- User registration & login system
-- Admin management for maid listings
-- Feedback and category modules
+- Developed a maid booking and management platform with secure user registration and login functionality.
+- Implemented maid listing, category management, and hiring modules for efficient service booking.
+- Built an admin panel to manage maid profiles, user requests, and platform operations.
+- Added feedback and review features to improve service quality and user experience.
 
-**Tech Stack:** PHP • MySQL • HTML5 • CSS3 •JavaSript
+**Tech Stack:** PHP • MySQL • HTML5 • CSS3 • JavaScript
 
 ---
 
 ## ✅ Task Buddy
 
-- Add, update, and delete tasks
-- Dynamic UI updates
-- Component-based architecture
-- Responsive design
+- Built a task management application for creating, updating, and deleting daily tasks.
+- Implemented dynamic UI updates for a smooth and interactive user experience.
+- Developed reusable React components following a component-based architecture.
+- Designed a responsive interface that works seamlessly across desktop and mobile devices.
 
-**Tech Stack:** React.js • JavaScript • HTML5  • CSS3 
+**Tech Stack:** React.js • JavaScript • HTML5 • CSS3
 
 ---
 
