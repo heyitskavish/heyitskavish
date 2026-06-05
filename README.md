@@ -58,9 +58,9 @@
 # 📌 Featured Projects
 
 🍔 Mealora — Food Ordering Web Application
-Implemented user authentication, registration, login, and order management features.
-Developed restaurant and menu management modules for efficient food listing.
-Built an admin dashboard to manage orders and track order statuses.
+-Implemented user authentication, registration, login, and order management features.
+-Developed restaurant and menu management modules for efficient food listing.
+-Built an admin dashboard to manage orders and track order statuses.
 Created a dynamic quantity-based pricing system for real-time price calculation.
 
 Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
@@ -74,7 +74,7 @@ Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
 - Admin management for maid listings
 - Feedback and category modules
 
-**Tech Stack:** Django • MySQL • HTML • CSS
+**Tech Stack:** PHP • MySQL • HTML5 • CSS3 •JavaSript
 
 ---
 
@@ -85,7 +85,7 @@ Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
 - Component-based architecture
 - Responsive design
 
-**Tech Stack:** React.js • JavaScript • HTML  • CSS 
+**Tech Stack:** React.js • JavaScript • HTML5  • CSS3 
 
 ---
 
@@ -105,10 +105,12 @@ Tech Stack: Django • SQLite3 • HTML5 • CSS3 • JavaScript
 
 # 🌱 Currently Learning
 
-- Advanced Django
-- REST APIs
-- React.js
-- Full Stack Development
+- Software Engineering Best Practices
+- Advanced Django & Backend Systems
+- React.js Ecosystem
+- API Development & Integration
+- Database Design
+- Scalable Web Applications
 
 ---
 
